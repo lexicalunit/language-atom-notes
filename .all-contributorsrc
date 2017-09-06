@@ -1,0 +1,29 @@
+{
+  "projectName": "language-atom-notes",
+  "projectOwner": "lexicalunit",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "lexicalunit",
+      "name": "Amy Troschinetz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1903876?v=4",
+      "profile": "http://lexicalunit.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "seongjaelee",
+      "name": "Seongjae Lee",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/948301?v=4",
+      "profile": "http://bluebrown.net",
+      "contributions": [
+        "code"
+      ]
+    }
+  ]
+}

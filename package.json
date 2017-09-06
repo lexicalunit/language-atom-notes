@@ -1,0 +1,56 @@
+{
+  "name": "language-atom-notes",
+  "main": "lib/main",
+  "version": "0.0.0",
+  "contributors": [
+    "lexicalunit <lexicalunit@lexicalunit.com>",
+    "Seongjae Lee <seongjae@gmail.com>"
+  ],
+  "description": "Syntax Highlighting for Atom Notes",
+  "keywords": [
+    "wiki",
+    "notational velocity",
+    "notes",
+    "notetaking",
+    "highlighter",
+    "syntax",
+    "atom-notes"
+  ],
+  "repository": "https://github.com/lexicalunit/language-atom-notes",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.18.0 <2.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/lexicalunit/language-atom-notes/issues"
+  },
+  "homepage": "https://github.com/lexicalunit/language-atom-notes",
+  "scripts": {
+    "add": "all-contributors add",
+    "generate": "all-contributors generate",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "fs-plus": "^3.0.1"
+  },
+  "devDependencies": {
+    "all-contributors-cli": "^4.4.0",
+    "eslint": "^4.6.1",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.1.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  },
+  "configSchema": {
+    "interopPackages": {
+      "title": "Interoperate with these packages",
+      "default": ["markdown-preview", "spell-check"],
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "A list of packages that support a configurable list of grammars"
+    }
+  }
+}
