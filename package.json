@@ -1,7 +1,7 @@
 {
   "name": "language-atom-notes",
   "main": "lib/main",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "contributors": [
     "lexicalunit <lexicalunit@lexicalunit.com>",
     "Seongjae Lee <seongjae@gmail.com>"
@@ -45,7 +45,10 @@
   "configSchema": {
     "interopPackages": {
       "title": "Interoperate with these packages",
-      "default": ["markdown-preview", "spell-check"],
+      "default": [
+        "markdown-preview",
+        "spell-check"
+      ],
       "type": "array",
       "items": {
         "type": "string"
