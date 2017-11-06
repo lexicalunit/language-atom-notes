@@ -21,7 +21,7 @@ with [`atom-notes`][atom-notes]. For example
 What makes these packages special is that they provide neat additional features
 for your notes files, **and they have a `grammars` configuration setting**.
 
-The `language-atom-notes` package ensures the addition of `soruce.gfm.notes` to
+The `language-atom-notes` package ensures the addition of `source.gfm.notes` to
 each package you list. We (should 🤞) support any package that contains a
 `grammars` setting. If you find that isn't the case, please [report it][issues].
 
