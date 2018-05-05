@@ -54,6 +54,16 @@
         "type": "string"
       },
       "description": "A list of packages that support a configurable list of grammars"
+    },
+    "excludeExtensions": {
+      "default": [
+        ".dot"
+      ],
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Do NOT apply atom-notes grammar to files with these extensions"
     }
   }
 }

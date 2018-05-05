@@ -25,6 +25,14 @@ The `language-atom-notes` package ensures the addition of `source.gfm.notes` to
 each package you list. We (should 🤞) support any package that contains a
 `grammars` setting. If you find that isn't the case, please [report it][issues].
 
+The `excludeExtensions` setting is provided to prevent our grammar from being
+misapplied to notes of specific file types. For example, some users wish to be
+able to search their notes directory for Graphviz `.dot` files. The Atom Notes
+grammar must not be applied to these files because it would affect syntax
+highlighting. And it's not like there are going to be interlinks in Graphviz
+files anyway. If you have added additional file types to your collection of
+notes, you may find this setting valuable.
+
 ## 💖 Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
