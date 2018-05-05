@@ -5,7 +5,7 @@
 [![download][dl-badge]][apm-pkg-link]
 [![mit][mit-badge]][mit]
 [![code-style][code-style-badge]][code-style]
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
 
 This package provides a grammar for [Atom Notes][atom-notes] which includes
 syntax highlighting for interlinks.
@@ -30,8 +30,9 @@ each package you list. We (should 🤞) support any package that contains a
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-| [<img src="https://avatars1.githubusercontent.com/u/1903876?v=4" width="100px;"/><br /><sub><b>Amy Troschinetz</b></sub>](http://lexicalunit.com)<br />[💻](https://github.com/lexicalunit/language-atom-notes/commits?author=lexicalunit "Code") | [<img src="https://avatars1.githubusercontent.com/u/948301?v=4" width="100px;"/><br /><sub><b>Seongjae Lee</b></sub>](http://bluebrown.net)<br />[💻](https://github.com/lexicalunit/language-atom-notes/commits?author=seongjaelee "Code") | [<img src="https://avatars0.githubusercontent.com/u/9479788?v=4" width="100px;"/><br /><sub><b>lakonis</b></sub>](https://github.com/lakonis)<br />[🐛](https://github.com/lexicalunit/language-atom-notes/issues?q=author%3Alakonis "Bug reports") |
-| :---: | :---: | :---: |
+<!-- prettier-ignore -->
+| [<img src="https://avatars1.githubusercontent.com/u/1903876?v=4" width="100px;"/><br /><sub><b>Amy Troschinetz</b></sub>](http://lexicalunit.com)<br />[💻](https://github.com/lexicalunit/language-atom-notes/commits?author=lexicalunit "Code") | [<img src="https://avatars1.githubusercontent.com/u/948301?v=4" width="100px;"/><br /><sub><b>Seongjae Lee</b></sub>](http://bluebrown.net)<br />[💻](https://github.com/lexicalunit/language-atom-notes/commits?author=seongjaelee "Code") | [<img src="https://avatars0.githubusercontent.com/u/9479788?v=4" width="100px;"/><br /><sub><b>lakonis</b></sub>](https://github.com/lakonis)<br />[🐛](https://github.com/lexicalunit/language-atom-notes/issues?q=author%3Alakonis "Bug reports") | [<img src="https://avatars1.githubusercontent.com/u/165914?v=4" width="100px;"/><br /><sub><b>John Kamenik</b></sub>](http://jkamenik.github.io)<br />[🐛](https://github.com/lexicalunit/language-atom-notes/issues?q=author%3Ajkamenik "Bug reports") |
+| :---: | :---: | :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
