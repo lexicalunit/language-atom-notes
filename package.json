@@ -47,6 +47,7 @@
       "title": "Interoperate with these packages",
       "default": [
         "markdown-preview",
+        "markdown-preview-plus",
         "spell-check"
       ],
       "type": "array",
